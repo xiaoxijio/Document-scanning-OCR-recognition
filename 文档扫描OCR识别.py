@@ -1,5 +1,5 @@
 import cv2
-from unit import cv_show, sort_contours, resize, four_point_transform
+from unit import cv_show, resize, four_point_transform
 
 
 image = cv2.imread('img/page.jpg')
